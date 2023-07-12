@@ -1,6 +1,6 @@
 ¡Hola!
 
-Estos son los links a los cursos gratuitos y con certificado que introducen a MATLAB. 
+Estos son los links a los cursos gratuitos y con certificado que introducen a MATLAB, el documento con nombre "MATLAB-ONRAMP-LeslyTineo" es mi certificado de completar el curso MATLAB ONRAMP.
 
 MATLAB ONRAMP: https://matlabacademy.mathworks.com/es/details/matlab-onramp/gettingstarted
 De entre los dos este es el curso más básico y sirve como buena introducción a las herramientas que ofrece Matlab 
