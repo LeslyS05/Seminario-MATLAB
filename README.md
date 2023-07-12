@@ -7,6 +7,6 @@ Aquí podrás explorar y aprender de los diferentes proyectos y ejercicios reali
 
 ¡Anímate a explorar el repositorio y descubrir las soluciones a los desafíos planteados en el seminario! Puedes examinar el código, estudiar las técnicas implementadas y aprovecharlo como una fuente de aprendizaje para tus propios proyectos de MATLAB.
 
-Estamos emocionados de compartir estos materiales contigo y esperamos que encuentres este repositorio útil. Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema o enviar una solicitud de extracción.
+Estoy emocionado de compartir estos materiales contigo y esperamos que encuentres este repositorio útil. Si tienes alguna pregunta o sugerencia, no dudes en abrir un problema o enviar una solicitud de extracción.
 
 ¡Disfruta explorando nuestro repositorio de Seminario de MATLAB - INTEC!
