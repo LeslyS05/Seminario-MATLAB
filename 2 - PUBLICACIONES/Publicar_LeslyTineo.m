@@ -35,7 +35,7 @@ t = 0:pi:2*pi;
 figure; 
 plot(cos(t));
 
-% Para mejroar esta gráfica es posible: etiquetar los ejes, colocar un
+% Para mejorar esta gráfica es posible: etiquetar los ejes, colocar un
 % título para la grafica, cambiar el estilo de línea o cambiar los colores.
 % En el caso de la forma V de la grafica es posible reducir el tamaño del
 % saldo, diviendo pi por un numero grande para que la curva aparezca más
