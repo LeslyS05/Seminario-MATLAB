@@ -7,5 +7,5 @@ function [BA, OBP, SLG] = calcular_factores(H, AB, BB, HBP, SF, B2, B3, HR)
 
     % Calcular SLG
     B1 = H - B2 - B3 - HR;
-    SLG = (singles + 2 * doubles + 3 * triples + 4 * HR) ./ AB;
+    SLG = (B1 + 2 * B2 + 3 * B3 + 4 * HR) ./ AB;
 end
